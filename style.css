@@ -436,8 +436,8 @@ section.drop{
 }
 
 .drop-icon{
-    width: 45px;
-    height: 45px;
+    width: 50px;
+    height: 50px;
     background-color: blue;
     color: white;
     display: flex;
